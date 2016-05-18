@@ -2,9 +2,9 @@
 
 ### Getting started
 
-####Run the portfolio website locally
+#### Run the portfolio website locally
 
-####OSX:
+#### OSX:
 
   ```bash
   $> cd /path/to/your-project-folder
@@ -15,7 +15,7 @@
 
 
 
-####Optimize Frames per Second in pizza.html
+#### Optimize Frames per Second in pizza.html
 
 1. Changed the way the resizePizzas function works to load all the
 pizza divs at once and then change the percentages for each one.
